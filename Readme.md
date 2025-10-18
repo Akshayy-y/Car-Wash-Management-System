@@ -58,13 +58,20 @@ Admin reviews reports, exports data (optional).
 
 
 📂 Folder Structure
+
 cwms/
   admin/         ← Admin-panel PHP files, CSS, JS  
+  
   SQL File/      ← Database schema & seed file (cwmsdb.sql)  
-  includes/      ← Common includes (DB connection, config)  
+  
+  includes/      ← Common includes (DB connection, config)
+  
   lib/           ← External libraries (e.g., jQuery plugins)  
+  
   index.php      ← Landing page  
-  washing-plans.php ← List of available service plans  
+  
+  washing-plans.php ← List of available service plans 
+  
   …              ← Other files  
 
 
